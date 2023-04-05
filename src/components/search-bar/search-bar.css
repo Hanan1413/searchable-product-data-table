@@ -1,0 +1,10 @@
+
+.product-mark{
+    padding-top: 10px;
+    
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    padding:15px;
+}
